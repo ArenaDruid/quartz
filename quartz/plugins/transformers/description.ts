@@ -8,7 +8,7 @@ export interface Options {
 }
 
 const defaultOptions: Options = {
-  descriptionLength: 75,
+  descriptionLength: 150,
 }
 
 export const Description: QuartzTransformerPlugin<Partial<Options> | undefined> = (userOpts) => {
