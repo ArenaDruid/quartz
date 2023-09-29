@@ -6,12 +6,10 @@ const config: QuartzConfig = {
     pageTitle: "🪴 瑞雪兆丰年纳",
     enableSPA: false,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    baseUrl: "arenadruid.top",
+    analytics: null,
+    baseUrl: "www.arenadruid.top",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "published",
     theme: {
       typography: {
         header: "Schibsted Grotesk",
