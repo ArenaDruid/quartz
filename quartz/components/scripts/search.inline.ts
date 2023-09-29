@@ -19,7 +19,7 @@ type SearchType = "basic" | "tags"
 // Current searchType
 let searchType: SearchType = "basic"
 
-const contextWindowWords = 30
+const contextWindowWords = 15
 const numSearchResults = 5
 const numTagResults = 3
 function highlight(searchTerm: string, text: string, trim?: boolean) {
