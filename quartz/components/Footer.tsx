@@ -31,7 +31,7 @@ export default ((opts?: Options) => {
               <a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2023005911号</a>
             </li>
             <li>
-              <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44011302003870"><img src="./public/001.png"/>粤公网安备 44011302003870号</a>
+              <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44011302003870"><img src="/static/footer.png"/>粤公网安备 44011302003870号</a>
             </li>
           </ul>
         </div>
