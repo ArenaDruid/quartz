@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     locale: "zh-CN",
     baseUrl: "www.arenadruid.top",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     generateSocialImages: {
       colorScheme: "darkMode",
     },
@@ -58,7 +58,7 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "filesystem"],
+        priority: ["frontmatter","git","filesystem"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {

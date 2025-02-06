@@ -4,6 +4,7 @@ publish: true
 date: 2025-01-23
 tags:
   - 运维
+  - Nginx
 ---
 # 问题描述
 Nginx Proxy manager 默认标准情况下启动时会尝试向[ip-ranges.amazonaws.com](https://ip-ranges.amazonaws.com/ip-ranges.json)获取ip-ranges.json。但是可能由于某种未确定的原因导致程序卡在这一步，日志如下：
