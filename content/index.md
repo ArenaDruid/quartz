@@ -11,10 +11,11 @@ Nice to meet you! This is Arena speaking.
 
 我以前在想阿巴拉契亚是个什么样子的形象，但是如今认真思考了阿巴拉契亚的历史缘由和发展之后。我认为阿巴拉契亚只要是和阿瑞纳不一样的形象就足以了，无须拘泥于其设定。
 # 随笔
-1. [[blog-20250503|使用超分算法软件Mapgie给Galgame提高分辨率]]
-2. [[blog-20250204|Obsidian 中文斜体楷体优化插件]]
-3. [[blog-20250130|案例：让不同组网工具统一虚拟IP的一个方法]]
-4. [[Nginx-Proxy-Manager|Nginx proxy manager关于获取ip-ranges.json时卡住的解决方案]]
-5. [[LOOPERS|时廻者 LOOPERS 短评]]
-6. [[blog-20230310|在国际妇女节的思考——如何解决女性职场不公问题]]
-7. [[blog-20230126|利用Nginx反代实现软件对IPv6网络访问的支持]]
+1. [[blog-20250511|使用EasyTier、Natter以及SRV记录实现NAT1状态下的去中心化组网]]
+2. [[blog-20250503|窗口缩放工具Mapgie实现Galgame窗口任意缩放的方案]]
+3. [[blog-20250204|Obsidian 中文斜体楷体优化插件]]
+4. [[blog-20250130|案例：让不同组网工具统一虚拟IP的一个方法]]
+5. [[Nginx-Proxy-Manager|Nginx proxy manager关于获取ip-ranges.json时卡住的解决方案]]
+6. [[LOOPERS|时廻者 LOOPERS 短评]]
+7. [[blog-20230310|在国际妇女节的思考——如何解决女性职场不公问题]]
+8. [[blog-20230126|利用Nginx反代实现软件对IPv6网络访问的支持]]
